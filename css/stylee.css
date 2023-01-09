@@ -1,0 +1,172 @@
+.navu{
+    background-image: linear-gradient(green,darkgreen);
+}
+.navi{
+    justify-content:end ;
+}
+.navcon{
+    color: white;
+}
+.log{
+    background-color: orange;
+    margin-left: 40px;
+    padding-left: 30px;
+    padding-right: 30px;
+    letter-spacing: 2px;
+    border-radius: 30px;
+}
+#banner{
+    background-image: url(../images/llll.jpg);
+
+}
+#adl{
+    color: orange;
+}
+.title{
+    font-style: oblique;
+    padding: 40px;
+    color: white;
+    
+}
+.lead{
+    color: white;
+}
+.lead::first-letter{
+    font-size: 60px;
+    color: orange;
+    
+}
+.htt{
+    margin-top: 20px;
+    margin-left: 95px;
+
+}
+.kl{
+    color: orange;
+    margin-top: 10px;
+}
+.ii{
+    color: darkgreen;
+}
+.jhjh{
+   
+    margin-left: 218px;
+    padding-bottom: 200px;
+    color: orange;
+}
+.conn{
+    background-color: rgba(209, 204, 204, 0.742);
+    margin-top: 40px;
+    
+    border-radius: 10px;
+}
+.bos{
+    border: none;
+   background-color: rgb(241, 230, 230);
+   margin-bottom: 40px;
+}
+.icooa{
+    background-image: url(../images/malid.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.icoob{
+    background-image: url(../images/indoo.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.icooc{
+    background-image: url(../images/qatoo.jpg);
+    background-size: cover;
+    border-radius: 10px;
+}
+.dol{
+    color: orange;
+}
+.per{
+    font-size: 14px;
+}
+.bttn{
+    background-color: orange;
+    color: darkgreen;
+    margin-top: 10px;
+    border-radius: 10px;
+    letter-spacing: 0px;
+}
+.bttn:hover{
+    background-color: darkorange;
+    color: greenyellow;
+}
+.ggb{
+    margin-top: 130px;
+    background-color: #f9f9f9;
+    border-radius:10px ;
+}
+.kk{
+    margin-left: 40px;
+}
+.stoo{
+    color: orange;
+}
+.pl{
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.cl_t{
+    margin-left: 5px;
+}
+.cvl{
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+    background-color: lightgray;
+    padding: 30px;
+    color: orange;
+}
+h6{
+    color: black;
+}
+.kkl{
+    text-align: center;
+    margin-top: 80px;
+   
+}
+.kkm{
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.bttnn{
+    width: 20%;
+    margin-left: 530px;
+    margin-top: 100px;
+    background-color: orange;
+    color: darkgreen;
+    border: none;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
+.bttnn:hover{
+    background-color: darkorange;
+    color: greenyellow;
+}
+.ggbb{
+    margin-top: 130px;
+    background-color: rgb(252, 211, 218);
+    border-radius:10px ;
+
+}
+.foott{
+    margin-top: 40px;
+    background-color:#f9f9f9 ;
+    padding: 50px;
+}
+.nmn{
+    background-color: lightgreen;
+}
+.mml{
+    background-color: #f9f9f9;
+}
